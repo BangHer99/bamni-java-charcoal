@@ -120,6 +120,11 @@
  }
  .termServ {
   background-color: #EDEDED;
+  background: url(Baground-Produk.png);
+  background-size: cover;
+  /* padding: 100px; */
+  padding-bottom: 30px;
+  
  }
  .termServ p {
   width: 50%;
@@ -147,9 +152,9 @@
 
  .tc {
   text-align: center;
-  background-color: #EDEDED;
+  /* background-color: #EDEDED; */
   /* padding-bottom: 4cm; */
-  padding-top: 50px;
+  padding-top: 100px;
   /* margin-bottom: 100px; */
   padding-bottom: 100px;
   
